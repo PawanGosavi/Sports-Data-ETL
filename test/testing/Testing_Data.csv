@@ -1,0 +1,7 @@
+,SRC,TGT,RESULT
+Row Count,227,227,Passed
+Column Count,6,6,Passed
+Column Names,"['ID', 'Name', 'Age', 'Nationality', 'Joined', 'Weight_lbs']","['ID', 'Name', 'Age', 'Nationality', 'Joined', 'Weight_lbs']",Passed
+Random Record,"          ID         Name  Age Nationality     Joined  Weight_lbs
+4028  199960  J. Paterson   26     England 2016-08-27         148","        ID         Name  Age Nationality      Joined  Weight_lbs
+11  199960  J. Paterson   26     England  2016-08-27         148",Failed
